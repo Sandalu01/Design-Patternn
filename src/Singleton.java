@@ -15,6 +15,16 @@ public class Singleton {
         return singleton;
 
     }
+    
+     @Override
+    public String toString() {
+        return "Computure{" +
+                "brand='" + brand + '\'' +
+                ", ram=" + ram +
+                ", Dispalysize=" + Dispalysize +
+                ", Dispalayspace=" + Dispalayspace +
+                '}';
+    }
 
 
 
