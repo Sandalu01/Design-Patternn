@@ -66,4 +66,5 @@ public class Singleton {
 
 ## images
 
-![Screenshot 2024-06-06 090322](https://github.com/Sandaluthushan20/Design-Patternn/assets/108582011/77e20b56-bc46-4426-bb62-8ae0d28aff94)
+![Screenshot 2024-06-06 090322](https://github.com/Sandaluthushan20/Design-Patternn/assets/108582011/a9448c76-e972-4d43-b324-e04557711d97)
+
