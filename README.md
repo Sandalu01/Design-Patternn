@@ -64,8 +64,4 @@ public class Singleton {
 ```
 
 
-## images
-
-![Screenshot 2024-06-06 090322](https://github.com/Sandaluthushan20/Design-Patternn/assets/108582011/a6086a2a-8de8-44eb-8fd6-e12bba7a1361)
-
 
